@@ -93,9 +93,9 @@
         $int = $row["cart_price"] * $row["cart_count"];
         $all_price = $all_price + $int;
     
-    if ($row["image"] != "" && file_exists("./uploads_images/".$row["image"]))
+    if ($row["image"] != "" && file_exists("./1c/".$row["image"]))
     {
-        $img_path = './uploads_images/'.$row["image"];
+        $img_path = './1c/'.$row["image"];
           $max_width = 100;
           $max_height = 100;
           list($width, $height) = getimagesize($img_path);
