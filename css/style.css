@@ -794,11 +794,11 @@
 #head3{width: 55px;}
 #head4{width: 140px; }
 .block-list-cart{
-    height: 130px;
+    height: 150px;
 }
 .block-list-cart > div{
     float: left;
-    margin-left: 5px;
+    //margin-left: 5px;
 }
 .img-cart{
     width: 130px;
@@ -807,6 +807,7 @@
     overflow: hidden;
 }
 .title-cart{
+    margin-top: 20px;
     width: 400px;
     height: 125px;
 
@@ -886,5 +887,5 @@
 .button-next > a{
     border: 1px solid #B0C181;
     font: 15px sans-serif;
-    color: white;
+    color: black;
 }

@@ -152,7 +152,7 @@
     
     echo '
     <h2 class="itog-price" align="right">Итого: <strong>'.$all_price.'</strong> руб</h2>
-    <p align="right" class="button-next" ><a href="cart.php?action=confirm" > Далее </a></p>
+    <p align="right" class="button-next" ><a href="cart.php?action=confirm">Далее</a></p>
     ';
     } else {
         echo '<h3 id ="clear-cart" align="center">Корзина пуста</h3>'; 
