@@ -1,0 +1,38 @@
+[
+{
+"name": "Бампер передний Audi A3",
+"opisanie": "с омывателями фар",
+"artikul": "333 333",
+"marka": " ",
+"model": "A3",
+"path": "95201898.jpg",
+"price": "9"
+},
+{
+"name": "Бампер передний Audi A3",
+"opisanie": "с омывателями фар",
+"artikul": "333 333",
+"marka": "Audi",
+"model": "A3",
+"path": "111111.jpg",
+"price": "9"
+},
+{
+"name": "Бочок омывателя Toyota Mark II",
+"opisanie": "под один моторчик",
+"artikul": "111 111",
+"marka": "Toyota",
+"model": "Mark II",
+"path": "222222.jpg",
+"price": "11"
+},
+{
+"name": "Замок зажигания Toyota Funcargo",
+"opisanie": "(личинка) с ключом",
+"artikul": "222 222",
+"marka": "Toyota",
+"model": "Funcargo",
+"path": "333333.jpg",
+"price": "55"
+}
+]
